@@ -1,0 +1,2 @@
+# CVExercises
+Computer vision exercises
